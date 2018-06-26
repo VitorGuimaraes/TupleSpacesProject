@@ -1,0 +1,9 @@
+Instalar GoLang:
+sudo add-apt-repository ppa:longsleep/golang-backports
+sudo apt-get update
+sudo apt-get install golang-go
+
+Baixar GoSpace:
+No terminal insira:
+go get -u github.com/pspaces/gospace
+
